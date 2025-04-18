@@ -81,28 +81,48 @@ education:
     summary: |
       GPA: 3.93/4.3
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Deep Learning Exchange Intern
+    company_name: MediaTek Research UK
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2024-06-15
+    date_end: 2024-08-31
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      I worked with Yen-Chen Wu and Farhang Nabiei to look into the model representation when LLM reasons, and explore the potential of language diffusion model.
+  - position: Project Intern
+    company_name: Yahoo
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-09-01
+    date_end: 2023-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      We utilized multi-task learning to jointly consider different readability signals and enhance readability prediction performance for global news articles.
+      Mentor: Meng-Huan Liu
+  - position: Research Engineering Intern
+    company_name: Yahoo
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-07-01
+    date_end: 2023-08-31
+    summary: |
+      We build a retrieval augmented LLM chatbot to perform global news QA using Langchain and ChromaDB.
+      Mentor: Meng-Huan Liu
+  - position: Graduate Teaching Assistant
+    company_name: National Taiwan University
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-09-01
+    date_end: 2022-12-31
+    summary: |
+      System programming TA.
+  - position: Summer Intern
+    company_name: Acadamia Sinica
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-07-01
+    date_end: 2020-08-31
+    summary: |
+      Streamlined real-time data collection from 7K+ PM2.5 sensors by multithreading and reduced memory usage by 75%.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -113,14 +133,10 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Language Modeling
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -129,22 +145,18 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Desserts & Cafes
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+        icon: 
 
 languages:
   - name: English
-    percent: 100
+    percent: 80
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+  - name: German
+    percent: 30
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -180,4 +192,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ting-Wen Ko, a student at University College London pursuing an M.Sc. in Computational Statistics and Machine Learning, with a prior M.Sc. in Computer Science from National Taiwan University, is experienced in developing and implementing NLP & LLM solutions. Her research interests lie in trustworthy & Interpretable AI, especially in understanding LLM reasoning by causality. Before joining UCL, she worked in research intern roles at MediaTek Research UK and Yahoo!, where she gained experience in generative AI, machine learning (ML), natural language processing (NLP), retrieval-augmented generation (RAG), and model understanding. 
+
+Currently, she's working with professor Meng-Yue Yang and Jun Wang on understanding spurious correlation in LLM.
+
+Previously, she had the privilege to work with professor Pu-Jen Cheng and Dr. Jyun-Yu Jiang on her thesis titled Augmenting Retrieval Augmented Generation with Passage Combination.
