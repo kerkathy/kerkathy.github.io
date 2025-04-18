@@ -191,5 +191,6 @@ languages:
 ---
 
 ## About Me
-
-Ting-Wen Ko, a student at University College London pursuing an M.Sc. in Computational Statistics and Machine Learning, with a prior M.Sc. in Computer Science from National Taiwan University, is experienced in developing and implementing NLP & LLM solutions. Currently, she's working with professor Meng-Yue Yang and Jun Wang on understanding spurious correlation in LLM. Previously, she had the privilege to work with professor Pu-Jen Cheng and Dr. Jyun-Yu Jiang on her thesis titled Augmenting Retrieval Augmented Generation with Passage Combination.
+Hello:) I'm Ting-Wen Ko, a student at University College London pursuing an M.Sc. in Computational Statistics and Machine Learning, with a prior M.Sc. in Computer Science from National Taiwan University. 
+Currently, I'm working with professor [Mengyue Yang](https://ymy4323460.github.io/) and [Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/) on understanding spurious correlation in LLM. Previously, I had the privilege to work with [Pu-Jen Cheng](https://www.csie.ntu.edu.tw/~pjcheng/) and [Jyun-Yu Jiang](https://jyunyu.csie.org/) on my thesis - Augmenting Retrieval Augmented Generation with Passage Combination.
+When I'm free, I enjoy cooking, hopping into local cafes, and exploring the city 🌞💫
