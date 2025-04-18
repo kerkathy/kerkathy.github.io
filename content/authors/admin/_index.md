@@ -57,11 +57,11 @@ education:
     date_end: 2025-09-15
     summary: |
       Course: (Gatsby Unit) Probabilistic and Unsupervised Learning
-Thesis: Explore the spurious correlation and capability of reasoning LLMs with Prof. Meng-Yue Yang and Prof. Jun Wang.
-
-Other projects: 
-Deconstructing LLM faithfulness (NLP course project, supervised by Noah Siegel), 
-Evolutionary prompt optimisation with multi-emitter using multi-armed bandit for text2img generation (Open-endedness course project, supervised by Davide Paglieri)
+      Thesis: Explore the spurious correlation and capability of reasoning LLMs with Prof. Meng-Yue Yang and Prof. Jun Wang.
+      
+      Other projects: 
+      Deconstructing LLM faithfulness (NLP course project, supervised by Noah Siegel), 
+      Evolutionary prompt optimisation with multi-emitter using multi-armed bandit for text2img generation (Open-endedness course project, supervised by Davide Paglieri)
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
