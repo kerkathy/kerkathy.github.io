@@ -65,28 +65,21 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Computer Science
+    institution: National Taiwan University
+    date_start: 2022-09-01
+    date_end: 2024-08-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      GPA: 4.13/4.3
+      Thesis titled "Enhancing Retrieval Augmented Generation with Passage Combination", supervised by Prof. Pu-Jen Cheng and Dr. Jyun-Yu Jiang.
+      We design a unified training objective for dense retriever so that it finds a suitable (not only relevant!) set documents, implicitly considering mutual information, for downstream retrieval augmented question answering⭐
+  - area: BSc Electrical Engineering and Computer Science, EECS Honors Program
+    Skills: C++ · Programming · Computer Science
+    institution: National Chiao Tung University (Now National Yang Ming Chiao Tung University)
+    date_start: 2018-09-01
+    date_end: 2022-08-31
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 3.93/4.3
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
