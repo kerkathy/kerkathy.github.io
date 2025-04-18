@@ -3,7 +3,7 @@
 title: Ting-Wen Ko
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Ting-Wen
@@ -25,7 +25,7 @@ role: Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: UCL CSML MSc
-    url: ''
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -40,7 +40,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/ting-wen-ko/
   - icon: academicons/google-scholar
-    url: ''
+    url: 
 
 interests:
   - Machine Learning
