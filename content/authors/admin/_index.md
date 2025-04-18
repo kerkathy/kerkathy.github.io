@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Ting-Wen Ko
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ting-Wen
+last_name: Ko
 
 # Status emoji
 status:
@@ -20,44 +20,48 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: UCL CSML MSc
+    url: ''
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:ting-wen.ko.24@ucl.ac.uk'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: [https://twitter.com/GetResearchDev](https://x.com/ko175041)
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/kerkathy
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/ting-wen-ko/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: ''
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Machine Learning
+  - Causal Reasoning
+  - Trustworthy AI
+  - AI safety
+  - Interpretability
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Computational Statistics and Machine Learning
+    institution: University College London
+    date_start: 2024-09-15
+    date_end: 2025-09-15
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Course: (Gatsby Unit) Probabilistic and Unsupervised Learning
+Thesis: Explore the spurious correlation and capability of reasoning LLMs with Prof. Meng-Yue Yang and Prof. Jun Wang.
+
+Other projects: 
+Deconstructing LLM faithfulness (NLP course project, supervised by Noah Siegel), 
+Evolutionary prompt optimisation with multi-emitter using multi-armed bandit for text2img generation (Open-endedness course project, supervised by Davide Paglieri)
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
