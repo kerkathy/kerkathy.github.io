@@ -24,7 +24,7 @@ role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: UCL CSML MSc
+  - name: UCL
     url: 
 
 # Social network links
