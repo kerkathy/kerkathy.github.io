@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:ting-wen.ko.24@ucl.ac.uk'
     label: E-mail Me
   - icon: brands/x
-    url: [https://twitter.com/GetResearchDev](https://x.com/ko175041)
+    url: https://x.com/ko175041
   - icon: brands/github
     url: https://github.com/kerkathy
   - icon: brands/linkedin
