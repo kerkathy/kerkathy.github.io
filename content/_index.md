@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research interests lie in trustworthy & Interpretable AI, especially in understanding LLM reasoning by causality. Before joining UCL, I worked in research intern roles at MediaTek Research UK and Yahoo!, where I gained experience in generative AI, machine learning (ML), natural language processing (NLP), retrieval-augmented generation (RAG), and model understanding.
+        My research interests lie in trustworthy & interpretable AI, especially in understanding LLM reasoning by causality. Before joining UCL, I worked in research intern roles at MediaTek Research UK and Yahoo!, where I gained experience in generative AI, machine learning (ML), natural language processing (NLP), retrieval-augmented generation (RAG), and model understanding.
         
         Please reach out to collaborate 😃
     design:
