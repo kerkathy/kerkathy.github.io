@@ -100,6 +100,14 @@ sections:
   #     # Reduce spacing
   #     spacing:
   #       padding: [0, 0, 0, 0]
+  - block: markdown
+    content:
+      title: '📰 News'
+      subtitle: ''
+      text: |-
+        I am excited to share that I will be attending the Cooperative Summer School in London this summer!
+    design:
+      columns: '1'
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
