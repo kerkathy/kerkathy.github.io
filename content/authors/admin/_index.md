@@ -40,7 +40,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/ting-wen-ko/
   - icon: academicons/google-scholar
-    url: 
+    url: https://scholar.google.com/citations?user=tApV9Y4AAAAJ
 
 interests:
   - Machine Learning
