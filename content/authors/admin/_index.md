@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Student
+role: Research Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: UCL
+  - name: ELLIS Institute Tübingen
     url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:ting-wen.ko.24@ucl.ac.uk'
+    url: 'mailto:ting-wen.ko@tue.ellis.eu'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/ko175041
@@ -44,10 +44,10 @@ profiles:
 
 interests:
   - Machine Learning
-  - Causal Reasoning
+  - Alignment
   - Trustworthy AI
   - AI safety
-  - Interpretability
+  - Causal Reasoning
   - Information Retrieval
 
 education:
@@ -191,6 +191,11 @@ languages:
 ---
 
 ## About Me
-Hello:) I'm Ting-Wen Ko, a student at University College London pursuing an M.Sc. in Computational Statistics and Machine Learning, with a prior M.Sc. in Computer Science from National Taiwan University. 
-Currently, I'm working with professor [Mengyue Yang](https://ymy4323460.github.io/) and [Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/) on understanding spurious correlation in LLM. Previously, I had the privilege to work with [Pu-Jen Cheng](https://www.csie.ntu.edu.tw/~pjcheng/) and [Jyun-Yu Jiang](https://jyunyu.csie.org/) on my thesis - Augmenting Retrieval Augmented Generation with Passage Combination.
-When I'm free, I enjoy cooking, hopping into local cafes, and exploring the city 🌞💫
+Hello:) I'm a research engineer in [ELLIS Institute Tübingen](https://institute-tue.ellis.eu/) with the [OpenEuroLLM](https://openeurollm.eu/) project. I'm broadly interested in ML for social good. This includes measuring emergent behaviours / their impact on society, monitoring its trustworthiness and safety, and aligning it with human values.
+
+My work sits at the intersection of model behavior and safety:
+- Interaction & Behavior: Currently interning with Jonas Geiping, where I focus on understanding how models interact with their environments and users.
+- Safety & Robustness: Previously collaborated with Professors [Mengyue Yang](https://ymy4323460.github.io/), [Linyi Yang](https://yanglinyi.github.io/) and [Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/) on web agent safety and mitigating spurious correlations in LLMs.
+- Optimization: For my thesis, I had the privilege of working with [Pu-Jen Cheng](https://www.csie.ntu.edu.tw/~pjcheng/) and [Jyun-Yu Jiang](https://jyunyu.csie.org/) on Augmenting Retrieval-Augmented Generation (RAG) with Passage Combination.
+
+When I'm free, I enjoy skateboarding, cooking, hopping into local cafes, and exploring the city 🌞💫
