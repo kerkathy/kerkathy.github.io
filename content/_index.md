@@ -40,17 +40,17 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
-  # - block: collection
-  #   id: papers
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     view: article-grid
-  #     columns: 2
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: citation
+      columns: 1
   # - block: collection
   #   content:
   #     title: Recent Publications
@@ -101,11 +101,14 @@ sections:
   #     spacing:
   #       padding: [0, 0, 0, 0]
   - block: markdown
+    id: news
     content:
       title: '📰 News'
       subtitle: ''
       text: |-
-        I am excited to share that I will be attending the Cooperative Summer School in London this summer!
+        - I will be attending [ICML 2026](https://icml.cc/Conferences/2026) in Seoul.
+        - I will be attending the [Cooperative AI Summer School 2026](https://www.cooperativeai.com/summer-school/summer-school-2026) in Toronto.
+        - Our new paper, [*Attractor States Emerge in Multi-Turn LLM Conversations*](https://arxiv.org/abs/2606.30571), is now available on arXiv.
     design:
       columns: '1'
   - block: cta-card

@@ -81,6 +81,14 @@ education:
     summary: |
       GPA: 3.93/4.3
 work:
+  - position: Research Intern
+    company_name: Max Planck Institute for Intelligent Systems
+    company_url: 'https://is.mpg.de/'
+    company_logo: ''
+    date_start: 2025-11-01
+    date_end: 2026-02-28
+    summary: |2-
+      I worked with Jonas Geiping on interactions between LLM agents in multi-turn conversations. This work led to a paper accepted at the ICML AI4GOOD Workshop 2026.
   - position: Deep Learning Exchange Intern
     company_name: MediaTek Research UK
     company_url: ''
@@ -194,7 +202,7 @@ languages:
 Hello:) I'm a research engineer in [ELLIS Institute Tübingen](https://institute-tue.ellis.eu/) with the [OpenEuroLLM](https://openeurollm.eu/) project. I'm broadly interested in ML for social good. This includes measuring emergent behaviours / their impact on society, monitoring its trustworthiness and safety, and aligning it with human values.
 
 My work sits at the intersection of model behavior and safety:
-- Interaction & Behavior: Currently interning with Jonas Geiping, where I focus on understanding how models interact with their environments and users.
+- Interaction & Behavior: I previously interned with [Jonas Geiping](https://jonasgeiping.github.io/) at the Max Planck Institute for Intelligent Systems, studying how language models interact in multi-turn conversations.
 - Safety & Robustness: Previously collaborated with Professors [Mengyue Yang](https://ymy4323460.github.io/), [Linyi Yang](https://yanglinyi.github.io/) and [Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/) on web agent safety and mitigating spurious correlations in LLMs.
 - Optimization: For my thesis, I had the privilege of working with [Pu-Jen Cheng](https://www.csie.ntu.edu.tw/~pjcheng/) and [Jyun-Yu Jiang](https://jyunyu.csie.org/) on Augmenting Retrieval-Augmented Generation (RAG) with Passage Combination.
 
